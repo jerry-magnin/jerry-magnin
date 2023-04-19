@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerry Magnin</h1>
-<h3 align="center">Rockfall & natural hazards monitoring engineer</h3>
+<h3 align="center">Rockfall & natural hazards monitoring engineer | FLOSS enthusiast | Electronics maker</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
