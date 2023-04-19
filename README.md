@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jerry Magnin</h1>
 <h3 align="center">Rockfall & natural hazards monitoring engineer | FLOSS enthusiast | Electronics maker</h3>
 
+## Current Status
+I'm currently employed at a geotechnical consulting firm, providing advice and help to people affected by rockfall hazards.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jerry-magnin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jerry-magnin" height="30" width="40" /></a>
