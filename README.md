@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jerry Magnin</h1>
+<h1 align="center">Hi 👋, I'm Jerry</h1>
 <h2 align="center">Rockfall & natural hazards monitoring engineer | FLOSS enthusiast | Electronics maker</h3>
 
 ### Current Status
