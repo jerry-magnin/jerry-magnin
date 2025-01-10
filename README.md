@@ -6,6 +6,7 @@ I'm currently employed at a geotechnical consulting firm, providing advice and h
 
 ### Significant projects & main repos
  * [Arduino 47XXX_EERAM Library](https://github.com/jerry-magnin/47XXX_EERAM_Arduino_Library), to interface with 47C04/47C16/47L04/47L16 memory chips
+ * [Arduino Mem24CSM01 Library](https://github.com/jerry-magnin/Mem24CSM01), to interface with Microchip MEM24CSM01 1-Mbit EEPROM chip
  * [rcsi](https://github.com/jerry-magnin/rcsi), a R package to load Campbell Scientific data formats as `data.table`s
 
 <h3 align="left">Connect with me:</h3>
